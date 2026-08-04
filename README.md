@@ -1,3 +1,3 @@
 # Learn FastAPI
 
-Getting Star
+Getting Started
