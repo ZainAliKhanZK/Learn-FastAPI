@@ -1,3 +1,3 @@
 # Learn FastAPI
 
-Getting Started With F
+Getting Started With Fas
